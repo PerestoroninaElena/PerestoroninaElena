@@ -5,8 +5,8 @@
 Примеры моих работ можно увидеть в этом <a href="https://github.com/PerestoroninaElena/Data_Analysis_Yandex_Practicum"> репозитории</a>.
 
 В ходе обучения я освоила следующие навыки: 
-SQL
-Python (библиотеки Pandas, Matplotlib, Seaborn, Plotly)
-A/B тестирование, знание основ математической статистики, теории вероятности
-Дополнительный курс Excel (продвинутый)
+SQL,
+Python (библиотеки Pandas, Matplotlib, Seaborn, Plotly),
+A/B тестирование, знание основ математической статистики, теории вероятности,
+Дополнительный курс Excel (продвинутый),
 Web-mining/parcing
