@@ -11,8 +11,9 @@ A/B тестирование, знание основ математическо
 Дополнительный курс Excel (продвинутый),  
 Web-mining/parcing
 
+Россия, Москва
 ![image](https://github.com/PerestoroninaElena/PerestoroninaElena/assets/160060889/63b131d4-9670-4a9c-9832-c72d1e9eefd9)  https://t.me/perestoroninaea  
-Тел.: +7-903-722-5579
-perestoronina@inbox.ru  
+Тел.: +7-903-722-5579  
+perestoronina@inbox.ru    
 perestoronina.ea@yandex.ru
 
